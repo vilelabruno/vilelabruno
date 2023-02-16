@@ -3,21 +3,11 @@
 # Hi, welcome to my GitHub! 
 
 
-<p>I'm a Data Scientist focused on data and AI at Vertem. 
+<p>I'm a Data Scientist focused on data and AI. 
 
 I've been working with technology since 2014, and during this time I worked with the most diverse types of projects like: web programming, back-end development, business intelligence, machine learning (development and engineering), . 
 
 What has enchanted me the most is working with data projects seen that today we have a huge amount of data everywhere and by using the right technologies, we can get answers to solve big problems, impacting all society and making the world a better place.
-
-<br>
-
-## 👩‍💻 About me
-* <img width="16" src="https://www.flaticon.com/svg/static/icons/svg/197/197386.svg" alt="Brazil" /> I'm from Brazil
-* <img width="16" src="https://about.gitlab.com/images/blogimages/GitLab-Dev.png" alt="" /> Love Programming
-* <img width="16" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="" /> My favorite programming language is Python
-* 👩‍🏫 Love teaching and sharing knowledge
-* <img width="20" src="https://cdn0.iconfinder.com/data/icons/infographic-orchid-vol-1/256/Histogram-512.png" alt="" /> As a challenge enthusiastic, I am diving into the data science world
-* 🏞️ Traveling is one of my favorite hobbies
 
 <br>
 
