@@ -29,9 +29,9 @@ I find the most excitement in working with data projects. Given the overwhelming
 - 🐘 Big Data Stack
   
     <img src="https://th.bing.com/th/id/R42d2f8bc61e0be575a92c75596d4c1ae?rik=PkpI%2b0ujscbRhw&riu=http%3a%2f%2fassets.stickpng.com%2fthumbs%2f58480813cef1014c0b5e48e2.png&ehk=XvPDzfY9zKgcebW0pb9jylhsmfmMq%2bi4eoBC%2bQlsdjY%3d&risl=&pid=ImgRaw" alt="Hadoop"
-    title="Hadoop" width="7%" />
+    title="Hadoop" width="5%" />
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/1200px-Apache_Spark_logo.svg.png" alt="Spark"
-    title="Spark" width="9%" />
+    title="Spark" width="5%" />
     <img src="https://learn.g2.com/hubfs/Imported_Blog_Media/Apache_Hive_logo.svg" alt="Hive"
     title="Hive" width="6%" />
     <img src="https://bitnine.net/wp-content/uploads/2017/07/impala-logo.png" alt="Impala"
