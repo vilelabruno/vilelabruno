@@ -3,11 +3,10 @@
 # Hi, welcome to my GitHub! 
 
 
-<p>I'm a Data Scientist focused on data and AI. 
+<p>I am a Data Scientist with a strong focus on data and AI.
+Since beginning my technology career in 2014, I have worked on a wide variety of projects, including web programming, back-end development, business intelligence, as well as machine learning development and engineering.
 
-I've been working with technology since 2014, and during this time I worked with the most diverse types of projects like: web programming, back-end development, business intelligence, machine learning (development and engineering), . 
-
-What has enchanted me the most is working with data projects seen that today we have a huge amount of data everywhere and by using the right technologies, we can get answers to solve big problems, impacting all society and making the world a better place.
+I find the most excitement in working with data projects. Given the overwhelming amount of data available today, using the right technologies can allow us to answer critical questions and solve significant problems. This not only has an impact on society, but also contributes to making the world a better place.
 
 <br>
 
