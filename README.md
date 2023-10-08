@@ -49,17 +49,7 @@ I find the most excitement in working with data projects. Given the overwhelming
     <img src="https://www.kapacity.com/wp-content/uploads/2020/09/DAT_Stacked_Lock_up_Full_Color@2x-2-400x223.png" alt="databricks"
     title="databricks" width="9%" />
 
-<br>
 
-
-<img align="center" alt="Julia-py" height="50" width="70"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="center" alt="Julia-py" height="50" width="70"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
-
-<img align="center" alt="Julia-py" height="50" width="70"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
-<img align="center" alt="Julia-py" height="50" width="70"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
-<img align="center" alt="Julia-py" height="50" width="70"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />
-  <a href="https://www.linkedin.com/in/vilelabruno00" target="_blank"><img align="center" alt="Julia-py" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" target="_blank"></a>     
-          
           
 </div>
 
