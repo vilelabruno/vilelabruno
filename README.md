@@ -56,5 +56,5 @@ I find the most excitement in working with data projects. Given the overwhelming
 
   
  
-![Snake animation](https://github.com/vilelabruno/vilelabruno/blob/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/vilelabruno/vilelabruno/blob/main/blob/github-contribution-grid-snake.svg)
 
