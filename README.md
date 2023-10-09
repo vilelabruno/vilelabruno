@@ -46,7 +46,7 @@ I find the most excitement in working with data projects. Given the overwhelming
     title="Flume" width="7%" />
     <img src="https://br.cloudera.com/content/dam/www/marketing/images/logos/cloudera/cloudera-newco-logo.png" alt="Cloudera"
     title="Cloudera" width="12%" />
-    <img src="https://www.kapacity.com/wp-content/uploads/2020/09/DAT_Stacked_Lock_up_Full_Color@2x-2-400x223.png" alt="databricks"
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Databricks_Logo.png/800px-Databricks_Logo.png" alt="databricks"
     title="databricks" width="9%" />
 
 
