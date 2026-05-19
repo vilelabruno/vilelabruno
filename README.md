@@ -1,25 +1,27 @@
 # Hi, welcome to my GitHub!
 
-I'm a Senior Data Scientist specializing in **causal machine learning, contextual bandits, and decision systems**.
+I'm a Senior Data Scientist with experience across **financial markets, marketing science, and large-scale personalization systems**.
 
-Over the past decade I've worked across the full data stack — from back-end engineering and BI to ML platform engineering and applied research. Today my focus is on the layer where causal inference meets decision-making at scale: building systems that don't just predict, but choose.
+My work sits at the intersection of causal inference, policy optimization, and decision-making under uncertainty. I've built and deployed models that go beyond prediction — systems that learn to choose, adapt, and be held accountable for the outcomes they drive.
 
 ---
 
-## What I'm working on
+## What I work on
 
-- **Hyperpersonalization policy engine** — contextual meta-bandit with causal sub-policies (Causal Forest / GRF + Thompson Sampling), designed to orchestrate personalization at the product layer
-- **Next Best Offer (NBO)** — sequential recommendation system using Q-learning and adaptive ε-greedy with lock-in detection
-- **Decision science methodology** — CATE estimation, uplift, RATE/Qini evaluation, OPE, doubly robust estimators
+- **Causal ML & policy optimization** — estimating heterogeneous treatment effects (CATE/HTE), building decision policies from causal estimates, and evaluating them with OPE and RATE/Qini metrics
+- **Contextual bandits & adaptive systems** — Thompson Sampling, ε-greedy variants, exploration strategies, and lock-in detection in sequential decision settings
+- **Financial strategies & operations** — pricing, credit, and structured financial operations driven by data
+- **Marketing science** — uplift modeling, incrementality measurement, campaign targeting and optimization
+- **CARLA** — causal reasoning and policy learning applied to real business constraints
 
 ---
 
 ## Core interests
 
-- Causal inference applied to business decisions (HTE, CATE, uplift modeling)
-- Contextual bandits and policy learning
-- The gap between a good model and a deployable decision system
-- Formalizing that gap in large-scale, constrained real-world environments
+- The gap between a good model and a good decision
+- Causal inference as a foundation for actionable ML
+- Designing systems that are modular, auditable, and actually deployable
+- Decision science that survives contact with organizational and operational reality
 
 ---
 
