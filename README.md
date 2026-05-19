@@ -1,4 +1,4 @@
-![Header](https://github.com/vilelabruno/vilelabruno/blob/main/blob/header.jpg)
+![Header]
 
 # Hi, welcome to my GitHub! 
 
